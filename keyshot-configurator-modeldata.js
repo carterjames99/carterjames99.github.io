@@ -6,11 +6,11 @@ model =
                 {
                     "icon": "dark.png",
                     "multimaterials": [
-                        "120+119",
-                        "48+47",
-                        "81+79",
+                        "122+121",
+                        "119+118",
                         "86+84",
-                        "117+116"
+                        "81+79",
+                        "48+47"
                     ],
                     "name": "Dark"
                 },
@@ -18,11 +18,11 @@ model =
                     "checked": true,
                     "icon": "light.png",
                     "multimaterials": [
-                        "120+118",
-                        "48+47",
-                        "81+80",
+                        "122+120",
+                        "119+117",
                         "86+85",
-                        "117+115"
+                        "81+80",
+                        "48+47"
                     ],
                     "name": "Light"
                 }
@@ -32,89 +32,96 @@ model =
         {
             "materials": [
                 {
-                    "icon": "stormtrooper%20white.png",
+                    "icon": "snow%20white.png",
                     "multimaterials": [
-                        "113+101"
+                        "115+102"
                     ],
-                    "name": "Stormtrooper White"
+                    "name": "Snow White"
                 },
                 {
                     "icon": "matte%20blackout.png",
                     "multimaterials": [
-                        "113+102"
+                        "115+103"
                     ],
                     "name": "Matte Blackout"
                 },
                 {
                     "icon": "platinum%20grey.png",
                     "multimaterials": [
-                        "113+103"
+                        "115+104"
                     ],
                     "name": "Platinum Grey"
                 },
                 {
                     "icon": "aztec%20teal.png",
                     "multimaterials": [
-                        "113+104"
+                        "115+105"
                     ],
                     "name": "Aztec Teal"
                 },
                 {
                     "icon": "burnt%20bronze.png",
                     "multimaterials": [
-                        "113+105"
+                        "115+106"
                     ],
                     "name": "Burnt Bronze"
                 },
                 {
                     "icon": "ridgeway%20blue.png",
                     "multimaterials": [
-                        "113+106"
+                        "115+107"
                     ],
                     "name": "Ridgeway Blue"
                 },
                 {
                     "icon": "northern%20lights.png",
                     "multimaterials": [
-                        "113+107"
+                        "115+108"
                     ],
                     "name": "Northern Lights"
                 },
                 {
-                    "checked": true,
                     "icon": "lollypop%20purple.png",
                     "multimaterials": [
-                        "113+108"
+                        "115+109"
                     ],
                     "name": "Lollypop Purple"
                 },
                 {
                     "icon": "rose%20gold.png",
                     "multimaterials": [
-                        "113+109"
+                        "115+110"
                     ],
                     "name": "Rose Gold"
                 },
                 {
                     "icon": "electric%20yellow.png",
                     "multimaterials": [
-                        "113+110"
+                        "115+111"
                     ],
                     "name": "Electric Yellow"
                 },
                 {
                     "icon": "prison%20pink.png",
                     "multimaterials": [
-                        "113+111"
+                        "115+112"
                     ],
                     "name": "Prison Pink"
                 },
                 {
                     "icon": "highland%20green.png",
                     "multimaterials": [
-                        "113+112"
+                        "115+113"
                     ],
                     "name": "Highland Green"
+                },
+                {
+                    "checked": true,
+                    "icon": "benelli%20sand.png",
+                    "multimaterials": [
+                        "115+114"
+                    ],
+                    "name": "Benelli Sand"
                 }
             ],
             "name": "Top"
@@ -122,89 +129,96 @@ model =
         {
             "materials": [
                 {
-                    "icon": "stormtrooper%20white-2.png",
+                    "icon": "snow%20white-2.png",
                     "multimaterials": [
-                        "100+88"
+                        "101+88"
                     ],
-                    "name": "Stormtrooper White"
+                    "name": "Snow White"
                 },
                 {
                     "icon": "matte%20blackout-2.png",
                     "multimaterials": [
-                        "100+89"
+                        "101+89"
                     ],
                     "name": "Matte Blackout"
                 },
                 {
                     "icon": "platinum%20grey-2.png",
                     "multimaterials": [
-                        "100+90"
+                        "101+90"
                     ],
                     "name": "Platinum Grey"
                 },
                 {
                     "icon": "aztec%20teal-2.png",
                     "multimaterials": [
-                        "100+91"
+                        "101+91"
                     ],
                     "name": "Aztec Teal"
                 },
                 {
                     "icon": "burnt%20bronze-2.png",
                     "multimaterials": [
-                        "100+92"
+                        "101+92"
                     ],
                     "name": "Burnt Bronze"
                 },
                 {
                     "icon": "ridgeway%20blue-2.png",
                     "multimaterials": [
-                        "100+93"
+                        "101+93"
                     ],
                     "name": "Ridgeway Blue"
                 },
                 {
                     "icon": "northern%20lights-2.png",
                     "multimaterials": [
-                        "100+94"
+                        "101+94"
                     ],
                     "name": "Northern Lights"
                 },
                 {
                     "icon": "lollypop%20purple-2.png",
                     "multimaterials": [
-                        "100+95"
+                        "101+95"
                     ],
                     "name": "Lollypop Purple"
                 },
                 {
-                    "checked": true,
                     "icon": "rose%20gold-2.png",
                     "multimaterials": [
-                        "100+96"
+                        "101+96"
                     ],
                     "name": "Rose Gold"
                 },
                 {
                     "icon": "electric%20yellow-2.png",
                     "multimaterials": [
-                        "100+97"
+                        "101+97"
                     ],
                     "name": "Electric Yellow"
                 },
                 {
                     "icon": "prison%20pink-2.png",
                     "multimaterials": [
-                        "100+98"
+                        "101+98"
                     ],
                     "name": "Prison Pink"
                 },
                 {
                     "icon": "highland%20green-2.png",
                     "multimaterials": [
-                        "100+99"
+                        "101+99"
                     ],
                     "name": "Highland Green"
+                },
+                {
+                    "checked": true,
+                    "icon": "benelli%20sand-2.png",
+                    "multimaterials": [
+                        "101+100"
+                    ],
+                    "name": "Benelli Sand"
                 }
             ],
             "name": "Bottom"
